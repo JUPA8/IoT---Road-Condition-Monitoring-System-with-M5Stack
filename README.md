@@ -488,26 +488,6 @@ Contributions are welcome! Please follow these guidelines:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Abdelrahman Ahmed (Moo)**
-- 🎓 Master's Student in Computer Science at Hochschule Osnabrück
-- 💼 AI Developer at DroidRun-Bonny.Network GmbH
-- 🔬 Specialization: IoT Systems, AI/ML, Data Analytics, Parallel Computing
-- 📧 Email: [Your Email]
-- 🐙 GitHub: [@JUPA8](https://github.com/JUPA8)
-- 🌐 Location: Osnabrück, Germany
-
-### Acknowledgments
-
-- **Hochschule Osnabrück** - IoT/Industry 4.0 Laboratory
-- **Supervisors**: 
-  - Marco Schaarschmidt (m.schaarschmidt@hs-osnabrueck.de)
-  - Nicolas Lampe (n.lampe@hs-osnabrueck.de)
-  - Tim Seidel (t.seidel@hs-osnabrueck.de)
-  - Simon Balzer (simon.balzer@hs-osnabrueck.de)
-- **Project Partner**: Achraf Bouker
-
 ### References
 
 - [M5Stack Documentation](https://docs.m5stack.com/)
